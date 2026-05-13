@@ -1,0 +1,1670 @@
+{
+  "id": "album-3-reyes-2026",
+  "title": "Álbum 3 Reyes - Mundial 2026",
+  "totalStickers": 632,
+  "covers": {
+    "front": {
+      "description": "Edición Dorada, con el logo del mundial en medio abarcando el 80%, debajo las sedes (Estados Unidos, México, Canadá)",
+      "type": "gold_edition"
+    },
+    "back": {
+      "description": "El mapa de cada Pais como sede, señalando los estados donde se jugarán los partidos, cantidad de estadios por cada país.",
+      "type": "map_infographic"
+    }
+  },
+  "sheets": [
+    {
+      "id": 1,
+      "pages": [
+        {
+          "pageNumber": 1,
+          "sections": [
+            { "title": "Portada Interior", "stickers": [] }
+          ]
+        },
+        {
+          "pageNumber": 2,
+          "sections": [
+            {
+              "title": "Sedes de la Copa del Mundo - EE.UU",
+              "stickers": [
+                { "id": "1", "number": "1", "name": "Estadio MetLife (NY/NJ)", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "2", "number": "2", "name": "Estadio Lincoln Financial Field", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "3", "number": "3", "name": "Estadio Mercedes-Benz", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "4", "number": "4", "name": "Estadio Hard Rock", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "5", "number": "5", "name": "Estadio Levi's", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "6", "number": "6", "name": "Estadio Sofi", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "7", "number": "7", "name": "Estadio AT&T", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "8", "number": "8", "name": "Estadio NRG", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pages": [
+        {
+          "pageNumber": 3,
+          "sections": [
+            {
+              "title": "Sedes de la Copa del Mundo - EE.UU, México y Canadá",
+              "stickers": [
+                { "id": "9", "number": "9", "name": "Estadio Geha Field AT Arrowhead", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "10", "number": "10", "name": "Estadio Gillette", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "11", "number": "11", "name": "Estadio Lumen Field", "type": "stadium", "team": "EE.UU", "group": "Sedes", "rarity": "normal" },
+                { "id": "12", "number": "12", "name": "Estadio Akron", "type": "stadium", "team": "México", "group": "Sedes", "rarity": "normal" },
+                { "id": "13", "number": "13", "name": "Estadio Banorte", "type": "stadium", "team": "México", "group": "Sedes", "rarity": "normal" },
+                { "id": "14", "number": "14", "name": "Estadio BBVA", "type": "stadium", "team": "México", "group": "Sedes", "rarity": "normal" },
+                { "id": "15", "number": "15", "name": "Estadio BMO Field", "type": "stadium", "team": "Canadá", "group": "Sedes", "rarity": "normal" },
+                { "id": "16", "number": "16", "name": "Estadio BC Place", "type": "stadium", "team": "Canadá", "group": "Sedes", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 4,
+          "sections": [
+            {
+              "title": "MÉXICO",
+              "stickers": [
+                { "id": "17", "number": "17", "name": "Selección de México", "type": "team", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "18", "number": "18", "name": "Entrenador", "type": "coach", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "19", "number": "19", "name": "Arquero", "type": "goalkeeper", "team": "México", "group": "A", "rarity": "silver" },
+                { "id": "20", "number": "20", "name": "Defensa", "type": "defender", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "21", "number": "21", "name": "Defensa", "type": "defender", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "22", "number": "22", "name": "Defensa", "type": "defender", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "23", "number": "23", "name": "Defensa", "type": "defender", "team": "México", "group": "A", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pages": [
+        {
+          "pageNumber": 5,
+          "sections": [
+            {
+              "title": "MÉXICO",
+              "stickers": [
+                { "id": "24", "number": "24", "name": "Mediocampista", "type": "midfielder", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "25", "number": "25", "name": "Mediocampista", "type": "midfielder", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "26", "number": "26", "name": "Mediocampista", "type": "midfielder", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "27", "number": "27", "name": "Mediocampista", "type": "midfielder", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "28", "number": "28", "name": "Mediocampista", "type": "midfielder", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "29", "number": "29", "name": "Delantero", "type": "forward", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "30", "number": "30", "name": "Delantero", "type": "forward", "team": "México", "group": "A", "rarity": "normal" },
+                { "id": "31", "number": "31", "name": "Delantero", "type": "forward", "team": "México", "group": "A", "rarity": "gold" },
+                { "id": "32", "number": "32", "name": "Delantero", "type": "forward", "team": "México", "group": "A", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 6,
+          "sections": [
+            {
+              "title": "REPÚBLICA CHECA",
+              "stickers": [
+                { "id": "33", "number": "33", "name": "Selección de Rep. Checa", "type": "team", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "34", "number": "34", "name": "Entrenador", "type": "coach", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "35", "number": "35", "name": "Arquero", "type": "goalkeeper", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "36", "number": "36", "name": "Defensa", "type": "defender", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "37", "number": "37", "name": "Defensa", "type": "defender", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "38", "number": "38", "name": "Defensa", "type": "defender", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "39", "number": "39", "name": "Defensa", "type": "defender", "team": "República Checa", "group": "A", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pages": [
+        {
+          "pageNumber": 7,
+          "sections": [
+            {
+              "title": "REPÚBLICA CHECA",
+              "stickers": [
+                { "id": "40", "number": "40", "name": "Mediocampista", "type": "midfielder", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "41", "number": "41", "name": "Mediocampista", "type": "midfielder", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "42", "number": "42", "name": "Mediocampista", "type": "midfielder", "team": "República Checa", "group": "A", "rarity": "gold" },
+                { "id": "43", "number": "43", "name": "Mediocampista", "type": "midfielder", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "44", "number": "44", "name": "Mediocampista", "type": "midfielder", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "45", "number": "45", "name": "Delantero", "type": "forward", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "46", "number": "46", "name": "Delantero", "type": "forward", "team": "República Checa", "group": "A", "rarity": "normal" },
+                { "id": "47", "number": "47", "name": "Delantero", "type": "forward", "team": "República Checa", "group": "A", "rarity": "silver" },
+                { "id": "48", "number": "48", "name": "Delantero", "type": "forward", "team": "República Checa", "group": "A", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 8,
+          "sections": [
+            {
+              "title": "COREA DEL SUR",
+              "stickers": [
+                { "id": "49", "number": "49", "name": "Selección de Corea del Sur", "type": "team", "team": "Corea del Sur", "group": "A", "rarity": "normal" },
+                { "id": "50", "number": "50", "name": "Arquero", "type": "goalkeeper", "team": "Corea del Sur", "group": "A", "rarity": "normal" },
+                { "id": "51", "number": "51", "name": "Defensa", "type": "defender", "team": "Corea del Sur", "group": "A", "rarity": "normal" },
+                { "id": "52", "number": "52", "name": "Defensa", "type": "defender", "team": "Corea del Sur", "group": "A", "rarity": "normal" },
+                { "id": "53", "number": "53", "name": "Mediocampista", "type": "midfielder", "team": "Corea del Sur", "group": "A", "rarity": "silver" },
+                { "id": "54", "number": "54", "name": "Delantero", "type": "forward", "team": "Corea del Sur", "group": "A", "rarity": "normal" },
+                { "id": "55", "number": "55", "name": "Delantero", "type": "forward", "team": "Corea del Sur", "group": "A", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pages": [
+        {
+          "pageNumber": 9,
+          "sections": [
+            {
+              "title": "SUDÁFRICA",
+              "stickers": [
+                { "id": "56", "number": "56", "name": "Selección de Sudáfrica", "type": "team", "team": "Sudáfrica", "group": "A", "rarity": "normal" },
+                { "id": "57", "number": "57", "name": "Arquero", "type": "goalkeeper", "team": "Sudáfrica", "group": "A", "rarity": "gold" },
+                { "id": "58", "number": "58", "name": "Defensa", "type": "defender", "team": "Sudáfrica", "group": "A", "rarity": "normal" },
+                { "id": "59", "number": "59", "name": "Defensa", "type": "defender", "team": "Sudáfrica", "group": "A", "rarity": "normal" },
+                { "id": "60", "number": "60", "name": "Mediocampista", "type": "midfielder", "team": "Sudáfrica", "group": "A", "rarity": "normal" },
+                { "id": "61", "number": "61", "name": "Delantero", "type": "forward", "team": "Sudáfrica", "group": "A", "rarity": "normal" },
+                { "id": "62", "number": "62", "name": "Delantero", "type": "forward", "team": "Sudáfrica", "group": "A", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 10,
+          "sections": [
+            {
+              "title": "CANADÁ",
+              "stickers": [
+                { "id": "63", "number": "63", "name": "Selección de Canadá", "type": "team", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "64", "number": "64", "name": "Entrenador", "type": "coach", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "65", "number": "65", "name": "Arquero", "type": "goalkeeper", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "66", "number": "66", "name": "Defensa", "type": "defender", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "67", "number": "67", "name": "Defensa", "type": "defender", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "68", "number": "68", "name": "Defensa", "type": "defender", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "69", "number": "69", "name": "Defensa", "type": "defender", "team": "Canadá", "group": "B", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "pages": [
+        {
+          "pageNumber": 11,
+          "sections": [
+            {
+              "title": "CANADÁ",
+              "stickers": [
+                { "id": "70", "number": "70", "name": "Mediocampista", "type": "midfielder", "team": "Canadá", "group": "B", "rarity": "gold" },
+                { "id": "71", "number": "71", "name": "Mediocampista", "type": "midfielder", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "72", "number": "72", "name": "Mediocampista", "type": "midfielder", "team": "Canadá", "group": "B", "rarity": "silver" },
+                { "id": "73", "number": "73", "name": "Mediocampista", "type": "midfielder", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "74", "number": "74", "name": "Mediocampista", "type": "midfielder", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "75", "number": "75", "name": "Delantero", "type": "forward", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "76", "number": "76", "name": "Delantero", "type": "forward", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "77", "number": "77", "name": "Delantero", "type": "forward", "team": "Canadá", "group": "B", "rarity": "normal" },
+                { "id": "78", "number": "78", "name": "Delantero", "type": "forward", "team": "Canadá", "group": "B", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 12,
+          "sections": [
+            {
+              "title": "BOSNIA Y HERZ.",
+              "stickers": [
+                { "id": "79", "number": "79", "name": "Selección de Bosnia", "type": "team", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "80", "number": "80", "name": "Entrenador", "type": "coach", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "81", "number": "81", "name": "Arquero", "type": "goalkeeper", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "82", "number": "82", "name": "Defensa", "type": "defender", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "83", "number": "83", "name": "Defensa", "type": "defender", "team": "Bosnia y Herz.", "group": "B", "rarity": "silver" },
+                { "id": "84", "number": "84", "name": "Defensa", "type": "defender", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "85", "number": "85", "name": "Defensa", "type": "defender", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pages": [
+        {
+          "pageNumber": 13,
+          "sections": [
+            {
+              "title": "BOSNIA Y HERZ.",
+              "stickers": [
+                { "id": "86", "number": "86", "name": "Mediocampista", "type": "midfielder", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "87", "number": "87", "name": "Mediocampista", "type": "midfielder", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "88", "number": "88", "name": "Mediocampista", "type": "midfielder", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "89", "number": "89", "name": "Mediocampista", "type": "midfielder", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "90", "number": "90", "name": "Mediocampista", "type": "midfielder", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "91", "number": "91", "name": "Delantero", "type": "forward", "team": "Bosnia y Herz.", "group": "B", "rarity": "gold" },
+                { "id": "92", "number": "92", "name": "Delantero", "type": "forward", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "93", "number": "93", "name": "Delantero", "type": "forward", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" },
+                { "id": "94", "number": "94", "name": "Delantero", "type": "forward", "team": "Bosnia y Herz.", "group": "B", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 14,
+          "sections": [
+            {
+              "title": "SUIZA",
+              "stickers": [
+                { "id": "95", "number": "95", "name": "Selección de Suiza", "type": "team", "team": "Suiza", "group": "B", "rarity": "normal" },
+                { "id": "96", "number": "96", "name": "Arquero", "type": "goalkeeper", "team": "Suiza", "group": "B", "rarity": "normal" },
+                { "id": "97", "number": "97", "name": "Defensa", "type": "defender", "team": "Suiza", "group": "B", "rarity": "normal" },
+                { "id": "98", "number": "98", "name": "Defensa", "type": "defender", "team": "Suiza", "group": "B", "rarity": "normal" },
+                { "id": "99", "number": "99", "name": "Mediocampista", "type": "midfielder", "team": "Suiza", "group": "B", "rarity": "gold" },
+                { "id": "100", "number": "100", "name": "Delantero", "type": "forward", "team": "Suiza", "group": "B", "rarity": "normal" },
+                { "id": "101", "number": "101", "name": "Delantero", "type": "forward", "team": "Suiza", "group": "B", "rarity": "silver" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pages": [
+        {
+          "pageNumber": 15,
+          "sections": [
+            {
+              "title": "CATAR",
+              "stickers": [
+                { "id": "102", "number": "102", "name": "Selección de Catar", "type": "team", "team": "Catar", "group": "B", "rarity": "normal" },
+                { "id": "103", "number": "103", "name": "Arquero", "type": "goalkeeper", "team": "Catar", "group": "B", "rarity": "normal" },
+                { "id": "104", "number": "104", "name": "Defensa", "type": "defender", "team": "Catar", "group": "B", "rarity": "normal" },
+                { "id": "105", "number": "105", "name": "Defensa", "type": "defender", "team": "Catar", "group": "B", "rarity": "gold" },
+                { "id": "106", "number": "106", "name": "Mediocampista", "type": "midfielder", "team": "Catar", "group": "B", "rarity": "normal" },
+                { "id": "107", "number": "107", "name": "Delantero", "type": "forward", "team": "Catar", "group": "B", "rarity": "silver" },
+                { "id": "108", "number": "108", "name": "Delantero", "type": "forward", "team": "Catar", "group": "B", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 16,
+          "sections": [
+            {
+              "title": "BRASIL",
+              "stickers": [
+                { "id": "109", "number": "109", "name": "Selección de Brasil", "type": "team", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "110", "number": "110", "name": "Arquero", "type": "goalkeeper", "team": "Brasil", "group": "C", "rarity": "gold" },
+                { "id": "111", "number": "111", "name": "Defensa", "type": "defender", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "112", "number": "112", "name": "Defensa", "type": "defender", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "113", "number": "113", "name": "Defensa", "type": "defender", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "114", "number": "114", "name": "Defensa", "type": "defender", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "115", "number": "115", "name": "Defensa", "type": "defender", "team": "Brasil", "group": "C", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pages": [
+        {
+          "pageNumber": 17,
+          "sections": [
+            {
+              "title": "BRASIL",
+              "stickers": [
+                { "id": "116", "number": "116", "name": "Mediocampista", "type": "midfielder", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "117", "number": "117", "name": "Mediocampista", "type": "midfielder", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "118", "number": "118", "name": "Mediocampista", "type": "midfielder", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "119", "number": "119", "name": "Mediocampista", "type": "midfielder", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "120", "number": "120", "name": "Delantero", "type": "forward", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "121", "number": "121", "name": "Delantero", "type": "forward", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "122", "number": "122", "name": "Delantero", "type": "forward", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "123", "number": "123", "name": "Delantero", "type": "forward", "team": "Brasil", "group": "C", "rarity": "normal" },
+                { "id": "124", "number": "124", "name": "Delantero", "type": "forward", "team": "Brasil", "group": "C", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 18,
+          "sections": [
+            {
+              "title": "MARRUECOS",
+              "stickers": [
+                { "id": "125", "number": "125", "name": "Selección de Marruecos", "type": "team", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "126", "number": "126", "name": "Entrenador", "type": "coach", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "127", "number": "127", "name": "Arquero", "type": "goalkeeper", "team": "Marruecos", "group": "C", "rarity": "gold" },
+                { "id": "128", "number": "128", "name": "Defensa", "type": "defender", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "129", "number": "129", "name": "Defensa", "type": "defender", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "130", "number": "130", "name": "Defensa", "type": "defender", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "131", "number": "131", "name": "Defensa", "type": "defender", "team": "Marruecos", "group": "C", "rarity": "silver" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pages": [
+        {
+          "pageNumber": 19,
+          "sections": [
+            {
+              "title": "MARRUECOS",
+              "stickers": [
+                { "id": "132", "number": "132", "name": "Mediocampista", "type": "midfielder", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "133", "number": "133", "name": "Mediocampista", "type": "midfielder", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "134", "number": "134", "name": "Mediocampista", "type": "midfielder", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "135", "number": "135", "name": "Mediocampista", "type": "midfielder", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "136", "number": "136", "name": "Mediocampista", "type": "midfielder", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "137", "number": "137", "name": "Delantero", "type": "forward", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "138", "number": "138", "name": "Delantero", "type": "forward", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "139", "number": "139", "name": "Delantero", "type": "forward", "team": "Marruecos", "group": "C", "rarity": "normal" },
+                { "id": "140", "number": "140", "name": "Delantero", "type": "forward", "team": "Marruecos", "group": "C", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 20,
+          "sections": [
+            {
+              "title": "ESCOCIA",
+              "stickers": [
+                { "id": "141", "number": "141", "name": "Selección de Escocia", "type": "team", "team": "Escocia", "group": "C", "rarity": "normal" },
+                { "id": "142", "number": "142", "name": "Arquero", "type": "goalkeeper", "team": "Escocia", "group": "C", "rarity": "normal" },
+                { "id": "143", "number": "143", "name": "Defensa", "type": "defender", "team": "Escocia", "group": "C", "rarity": "gold" },
+                { "id": "144", "number": "144", "name": "Defensa", "type": "defender", "team": "Escocia", "group": "C", "rarity": "normal" },
+                { "id": "145", "number": "145", "name": "Mediocampista", "type": "midfielder", "team": "Escocia", "group": "C", "rarity": "silver" },
+                { "id": "146", "number": "146", "name": "Delantero", "type": "forward", "team": "Escocia", "group": "C", "rarity": "normal" },
+                { "id": "147", "number": "147", "name": "Delantero", "type": "forward", "team": "Escocia", "group": "C", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "pages": [
+        {
+          "pageNumber": 21,
+          "sections": [
+            {
+              "title": "HAITÍ",
+              "stickers": [
+                { "id": "148", "number": "148", "name": "Selección de Haití", "type": "team", "team": "Haití", "group": "C", "rarity": "normal" },
+                { "id": "149", "number": "149", "name": "Arquero", "type": "goalkeeper", "team": "Haití", "group": "C", "rarity": "gold" },
+                { "id": "150", "number": "150", "name": "Defensa", "type": "defender", "team": "Haití", "group": "C", "rarity": "normal" },
+                { "id": "151", "number": "151", "name": "Defensa", "type": "defender", "team": "Haití", "group": "C", "rarity": "normal" },
+                { "id": "152", "number": "152", "name": "Mediocampista", "type": "midfielder", "team": "Haití", "group": "C", "rarity": "silver" },
+                { "id": "153", "number": "153", "name": "Delantero", "type": "forward", "team": "Haití", "group": "C", "rarity": "normal" },
+                { "id": "154", "number": "154", "name": "Delantero", "type": "forward", "team": "Haití", "group": "C", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 22,
+          "sections": [
+            {
+              "title": "EE.UU",
+              "stickers": [
+                { "id": "155", "number": "155", "name": "Selección de EE.UU", "type": "team", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "156", "number": "156", "name": "Entrenador", "type": "coach", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "157", "number": "157", "name": "Arquero", "type": "goalkeeper", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "158", "number": "158", "name": "Defensa", "type": "defender", "team": "EE.UU", "group": "D", "rarity": "gold" },
+                { "id": "159", "number": "159", "name": "Defensa", "type": "defender", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "160", "number": "160", "name": "Defensa", "type": "defender", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "161", "number": "161", "name": "Defensa", "type": "defender", "team": "EE.UU", "group": "D", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "pages": [
+        {
+          "pageNumber": 23,
+          "sections": [
+            {
+              "title": "EE.UU",
+              "stickers": [
+                { "id": "162", "number": "162", "name": "Mediocampista", "type": "midfielder", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "163", "number": "163", "name": "Mediocampista", "type": "midfielder", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "164", "number": "164", "name": "Mediocampista", "type": "midfielder", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "165", "number": "165", "name": "Mediocampista", "type": "midfielder", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "166", "number": "166", "name": "Mediocampista", "type": "midfielder", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "167", "number": "167", "name": "Delantero", "type": "forward", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "168", "number": "168", "name": "Delantero", "type": "forward", "team": "EE.UU", "group": "D", "rarity": "normal" },
+                { "id": "169", "number": "169", "name": "Delantero", "type": "forward", "team": "EE.UU", "group": "D", "rarity": "silver" },
+                { "id": "170", "number": "170", "name": "Delantero", "type": "forward", "team": "EE.UU", "group": "D", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 24,
+          "sections": [
+            {
+              "title": "PARAGUAY",
+              "stickers": [
+                { "id": "171", "number": "171", "name": "Selección de Paraguay", "type": "team", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "172", "number": "172", "name": "Entrenador", "type": "coach", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "173", "number": "173", "name": "Arquero", "type": "goalkeeper", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "174", "number": "174", "name": "Defensa", "type": "defender", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "175", "number": "175", "name": "Defensa", "type": "defender", "team": "Paraguay", "group": "D", "rarity": "gold" },
+                { "id": "176", "number": "176", "name": "Defensa", "type": "defender", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "177", "number": "177", "name": "Defensa", "type": "defender", "team": "Paraguay", "group": "D", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "pages": [
+        {
+          "pageNumber": 25,
+          "sections": [
+            {
+              "title": "PARAGUAY",
+              "stickers": [
+                { "id": "178", "number": "178", "name": "Mediocampista", "type": "midfielder", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "179", "number": "179", "name": "Mediocampista", "type": "midfielder", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "180", "number": "180", "name": "Mediocampista", "type": "midfielder", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "181", "number": "181", "name": "Mediocampista", "type": "midfielder", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "182", "number": "182", "name": "Mediocampista", "type": "midfielder", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "183", "number": "183", "name": "Delantero", "type": "forward", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "184", "number": "184", "name": "Delantero", "type": "forward", "team": "Paraguay", "group": "D", "rarity": "silver" },
+                { "id": "185", "number": "185", "name": "Delantero", "type": "forward", "team": "Paraguay", "group": "D", "rarity": "normal" },
+                { "id": "186", "number": "186", "name": "Delantero", "type": "forward", "team": "Paraguay", "group": "D", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 26,
+          "sections": [
+            {
+              "title": "AUSTRALIA",
+              "stickers": [
+                { "id": "187", "number": "187", "name": "Selección de Australia", "type": "team", "team": "Australia", "group": "D", "rarity": "normal" },
+                { "id": "188", "number": "188", "name": "Arquero", "type": "goalkeeper", "team": "Australia", "group": "D", "rarity": "gold" },
+                { "id": "189", "number": "189", "name": "Defensa", "type": "defender", "team": "Australia", "group": "D", "rarity": "normal" },
+                { "id": "190", "number": "190", "name": "Defensa", "type": "defender", "team": "Australia", "group": "D", "rarity": "normal" },
+                { "id": "191", "number": "191", "name": "Mediocampista", "type": "midfielder", "team": "Australia", "group": "D", "rarity": "normal" },
+                { "id": "192", "number": "192", "name": "Delantero", "type": "forward", "team": "Australia", "group": "D", "rarity": "silver" },
+                { "id": "193", "number": "193", "name": "Delantero", "type": "forward", "team": "Australia", "group": "D", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "pages": [
+        {
+          "pageNumber": 27,
+          "sections": [
+            {
+              "title": "TURQUÍA",
+              "stickers": [
+                { "id": "194", "number": "194", "name": "Selección de Turquía", "type": "team", "team": "Turquía", "group": "D", "rarity": "normal" },
+                { "id": "195", "number": "195", "name": "Arquero", "type": "goalkeeper", "team": "Turquía", "group": "D", "rarity": "normal" },
+                { "id": "196", "number": "196", "name": "Defensa", "type": "defender", "team": "Turquía", "group": "D", "rarity": "normal" },
+                { "id": "197", "number": "197", "name": "Defensa", "type": "defender", "team": "Turquía", "group": "D", "rarity": "normal" },
+                { "id": "198", "number": "198", "name": "Mediocampista", "type": "midfielder", "team": "Turquía", "group": "D", "rarity": "gold" },
+                { "id": "199", "number": "199", "name": "Delantero", "type": "forward", "team": "Turquía", "group": "D", "rarity": "normal" },
+                { "id": "200", "number": "200", "name": "Delantero", "type": "forward", "team": "Turquía", "group": "D", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 28,
+          "sections": [
+            {
+              "title": "ALEMANIA",
+              "stickers": [
+                { "id": "201", "number": "201", "name": "Selección de Alemania", "type": "team", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "202", "number": "202", "name": "Entrenador", "type": "coach", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "203", "number": "203", "name": "Arquero", "type": "goalkeeper", "team": "Alemania", "group": "E", "rarity": "gold" },
+                { "id": "204", "number": "204", "name": "Defensa", "type": "defender", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "205", "number": "205", "name": "Defensa", "type": "defender", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "206", "number": "206", "name": "Defensa", "type": "defender", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "207", "number": "207", "name": "Defensa", "type": "defender", "team": "Alemania", "group": "E", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "pages": [
+        {
+          "pageNumber": 29,
+          "sections": [
+            {
+              "title": "ALEMANIA",
+              "stickers": [
+                { "id": "208", "number": "208", "name": "Mediocampista", "type": "midfielder", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "209", "number": "209", "name": "Mediocampista", "type": "midfielder", "team": "Alemania", "group": "E", "rarity": "silver" },
+                { "id": "210", "number": "210", "name": "Mediocampista", "type": "midfielder", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "211", "number": "211", "name": "Mediocampista", "type": "midfielder", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "212", "number": "212", "name": "Mediocampista", "type": "midfielder", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "213", "number": "213", "name": "Delantero", "type": "forward", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "214", "number": "214", "name": "Delantero", "type": "forward", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "215", "number": "215", "name": "Delantero", "type": "forward", "team": "Alemania", "group": "E", "rarity": "normal" },
+                { "id": "216", "number": "216", "name": "Delantero", "type": "forward", "team": "Alemania", "group": "E", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 30,
+          "sections": [
+            {
+              "title": "ECUADOR",
+              "stickers": [
+                { "id": "217", "number": "217", "name": "Selección de Ecuador", "type": "team", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "218", "number": "218", "name": "Entrenador", "type": "coach", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "219", "number": "219", "name": "Arquero", "type": "goalkeeper", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "220", "number": "220", "name": "Defensa", "type": "defender", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "221", "number": "221", "name": "Defensa", "type": "defender", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "222", "number": "222", "name": "Defensa", "type": "defender", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "223", "number": "223", "name": "Defensa", "type": "defender", "team": "Ecuador", "group": "E", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "pages": [
+        {
+          "pageNumber": 31,
+          "sections": [
+            {
+              "title": "ECUADOR",
+              "stickers": [
+                { "id": "224", "number": "224", "name": "Mediocampista", "type": "midfielder", "team": "Ecuador", "group": "E", "rarity": "silver" },
+                { "id": "225", "number": "225", "name": "Mediocampista", "type": "midfielder", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "226", "number": "226", "name": "Mediocampista", "type": "midfielder", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "227", "number": "227", "name": "Mediocampista", "type": "midfielder", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "228", "number": "228", "name": "Mediocampista", "type": "midfielder", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "229", "number": "229", "name": "Delantero", "type": "forward", "team": "Ecuador", "group": "E", "rarity": "gold" },
+                { "id": "230", "number": "230", "name": "Delantero", "type": "forward", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "231", "number": "231", "name": "Delantero", "type": "forward", "team": "Ecuador", "group": "E", "rarity": "normal" },
+                { "id": "232", "number": "232", "name": "Delantero", "type": "forward", "team": "Ecuador", "group": "E", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 32,
+          "sections": [
+            {
+              "title": "COSTA DE MARFIL",
+              "stickers": [
+                { "id": "233", "number": "233", "name": "Selección de Costa de Marfil", "type": "team", "team": "Costa de Marfil", "group": "E", "rarity": "normal" },
+                { "id": "234", "number": "234", "name": "Arquero", "type": "goalkeeper", "team": "Costa de Marfil", "group": "E", "rarity": "normal" },
+                { "id": "235", "number": "235", "name": "Defensa", "type": "defender", "team": "Costa de Marfil", "group": "E", "rarity": "normal" },
+                { "id": "236", "number": "236", "name": "Defensa", "type": "defender", "team": "Costa de Marfil", "group": "E", "rarity": "normal" },
+                { "id": "237", "number": "237", "name": "Mediocampista", "type": "midfielder", "team": "Costa de Marfil", "group": "E", "rarity": "normal" },
+                { "id": "238", "number": "238", "name": "Delantero", "type": "forward", "team": "Costa de Marfil", "group": "E", "rarity": "silver" },
+                { "id": "239", "number": "239", "name": "Delantero", "type": "forward", "team": "Costa de Marfil", "group": "E", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "pages": [
+        {
+          "pageNumber": 33,
+          "sections": [
+            {
+              "title": "CURAZAO",
+              "stickers": [
+                { "id": "240", "number": "240", "name": "Selección de Curazao", "type": "team", "team": "Curazao", "group": "E", "rarity": "normal" },
+                { "id": "241", "number": "241", "name": "Arquero", "type": "goalkeeper", "team": "Curazao", "group": "E", "rarity": "gold" },
+                { "id": "242", "number": "242", "name": "Defensa", "type": "defender", "team": "Curazao", "group": "E", "rarity": "normal" },
+                { "id": "243", "number": "243", "name": "Defensa", "type": "defender", "team": "Curazao", "group": "E", "rarity": "normal" },
+                { "id": "244", "number": "244", "name": "Mediocampista", "type": "midfielder", "team": "Curazao", "group": "E", "rarity": "silver" },
+                { "id": "245", "number": "245", "name": "Delantero", "type": "forward", "team": "Curazao", "group": "E", "rarity": "normal" },
+                { "id": "246", "number": "246", "name": "Delantero", "type": "forward", "team": "Curazao", "group": "E", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 34,
+          "sections": [
+            {
+              "title": "PAISES BAJOS",
+              "stickers": [
+                { "id": "247", "number": "247", "name": "Selección de Paises Bajos", "type": "team", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "248", "number": "248", "name": "Entrenador", "type": "coach", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "249", "number": "249", "name": "Arquero", "type": "goalkeeper", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "250", "number": "250", "name": "Defensa", "type": "defender", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "251", "number": "251", "name": "Defensa", "type": "defender", "team": "Países Bajos", "group": "F", "rarity": "gold" },
+                { "id": "252", "number": "252", "name": "Defensa", "type": "defender", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "253", "number": "253", "name": "Defensa", "type": "defender", "team": "Países Bajos", "group": "F", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "pages": [
+        {
+          "pageNumber": 35,
+          "sections": [
+            {
+              "title": "PAISES BAJOS",
+              "stickers": [
+                { "id": "254", "number": "254", "name": "Mediocampista", "type": "midfielder", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "255", "number": "255", "name": "Mediocampista", "type": "midfielder", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "256", "number": "256", "name": "Mediocampista", "type": "midfielder", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "257", "number": "257", "name": "Mediocampista", "type": "midfielder", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "258", "number": "258", "name": "Mediocampista", "type": "midfielder", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "259", "number": "259", "name": "Delantero", "type": "forward", "team": "Países Bajos", "group": "F", "rarity": "silver" },
+                { "id": "260", "number": "260", "name": "Delantero", "type": "forward", "team": "Países Bajos", "group": "F", "rarity": "gold" },
+                { "id": "261", "number": "261", "name": "Delantero", "type": "forward", "team": "Países Bajos", "group": "F", "rarity": "normal" },
+                { "id": "262", "number": "262", "name": "Delantero", "type": "forward", "team": "Países Bajos", "group": "F", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 36,
+          "sections": [
+            {
+              "title": "SUECIA",
+              "stickers": [
+                { "id": "263", "number": "263", "name": "Selección de Suecia", "type": "team", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "264", "number": "264", "name": "Entrenador", "type": "coach", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "265", "number": "265", "name": "Arquero", "type": "goalkeeper", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "266", "number": "266", "name": "Defensa", "type": "defender", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "267", "number": "267", "name": "Defensa", "type": "defender", "team": "Suecia", "group": "F", "rarity": "gold" },
+                { "id": "268", "number": "268", "name": "Defensa", "type": "defender", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "269", "number": "269", "name": "Defensa", "type": "defender", "team": "Suecia", "group": "F", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "pages": [
+        {
+          "pageNumber": 37,
+          "sections": [
+            {
+              "title": "SUECIA",
+              "stickers": [
+                { "id": "270", "number": "270", "name": "Mediocampista", "type": "midfielder", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "271", "number": "271", "name": "Mediocampista", "type": "midfielder", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "272", "number": "272", "name": "Mediocampista", "type": "midfielder", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "273", "number": "273", "name": "Mediocampista", "type": "midfielder", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "274", "number": "274", "name": "Mediocampista", "type": "midfielder", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "275", "number": "275", "name": "Delantero", "type": "forward", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "276", "number": "276", "name": "Delantero", "type": "forward", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "277", "number": "277", "name": "Delantero", "type": "forward", "team": "Suecia", "group": "F", "rarity": "normal" },
+                { "id": "278", "number": "278", "name": "Delantero", "type": "forward", "team": "Suecia", "group": "F", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 38,
+          "sections": [
+            {
+              "title": "JAPÓN",
+              "stickers": [
+                { "id": "279", "number": "279", "name": "Selección de Japón", "type": "team", "team": "Japón", "group": "F", "rarity": "normal" },
+                { "id": "280", "number": "280", "name": "Arquero", "type": "goalkeeper", "team": "Japón", "group": "F", "rarity": "normal" },
+                { "id": "281", "number": "281", "name": "Defensa", "type": "defender", "team": "Japón", "group": "F", "rarity": "normal" },
+                { "id": "282", "number": "282", "name": "Defensa", "type": "defender", "team": "Japón", "group": "F", "rarity": "normal" },
+                { "id": "283", "number": "283", "name": "Mediocampista", "type": "midfielder", "team": "Japón", "group": "F", "rarity": "gold" },
+                { "id": "284", "number": "284", "name": "Delantero", "type": "forward", "team": "Japón", "group": "F", "rarity": "normal" },
+                { "id": "285", "number": "285", "name": "Delantero", "type": "forward", "team": "Japón", "group": "F", "rarity": "silver" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "pages": [
+        {
+          "pageNumber": 39,
+          "sections": [
+            {
+              "title": "TÚNEZ",
+              "stickers": [
+                { "id": "286", "number": "286", "name": "Selección de Túnez", "type": "team", "team": "Túnez", "group": "F", "rarity": "normal" },
+                { "id": "287", "number": "287", "name": "Arquero", "type": "goalkeeper", "team": "Túnez", "group": "F", "rarity": "normal" },
+                { "id": "288", "number": "288", "name": "Defensa", "type": "defender", "team": "Túnez", "group": "F", "rarity": "normal" },
+                { "id": "289", "number": "289", "name": "Defensa", "type": "defender", "team": "Túnez", "group": "F", "rarity": "normal" },
+                { "id": "290", "number": "290", "name": "Mediocampista", "type": "midfielder", "team": "Túnez", "group": "F", "rarity": "gold" },
+                { "id": "291", "number": "291", "name": "Delantero", "type": "forward", "team": "Túnez", "group": "F", "rarity": "normal" },
+                { "id": "292", "number": "292", "name": "Delantero", "type": "forward", "team": "Túnez", "group": "F", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 40,
+          "sections": [
+            {
+              "title": "BÉLGICA",
+              "stickers": [
+                { "id": "293", "number": "293", "name": "Selección de Bélgica", "type": "team", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "294", "number": "294", "name": "Entrenador", "type": "coach", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "295", "number": "295", "name": "Arquero", "type": "goalkeeper", "team": "Bélgica", "group": "G", "rarity": "silver" },
+                { "id": "296", "number": "296", "name": "Defensa", "type": "defender", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "297", "number": "297", "name": "Defensa", "type": "defender", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "298", "number": "298", "name": "Defensa", "type": "defender", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "299", "number": "299", "name": "Defensa", "type": "defender", "team": "Bélgica", "group": "G", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "pages": [
+        {
+          "pageNumber": 41,
+          "sections": [
+            {
+              "title": "BÉLGICA",
+              "stickers": [
+                { "id": "300", "number": "300", "name": "Mediocampista", "type": "midfielder", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "301", "number": "301", "name": "Mediocampista", "type": "midfielder", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "302", "number": "302", "name": "Mediocampista", "type": "midfielder", "team": "Bélgica", "group": "G", "rarity": "gold" },
+                { "id": "303", "number": "303", "name": "Mediocampista", "type": "midfielder", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "304", "number": "304", "name": "Delantero", "type": "forward", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "305", "number": "305", "name": "Delantero", "type": "forward", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "306", "number": "306", "name": "Delantero", "type": "forward", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "307", "number": "307", "name": "Delantero", "type": "forward", "team": "Bélgica", "group": "G", "rarity": "normal" },
+                { "id": "308", "number": "308", "name": "Delantero", "type": "forward", "team": "Bélgica", "group": "G", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 42,
+          "sections": [
+            {
+              "title": "EGIPTO",
+              "stickers": [
+                { "id": "309", "number": "309", "name": "Selección de Egipto", "type": "team", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "310", "number": "310", "name": "Entrenador", "type": "coach", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "311", "number": "311", "name": "Arquero", "type": "goalkeeper", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "312", "number": "312", "name": "Defensa", "type": "defender", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "313", "number": "313", "name": "Defensa", "type": "defender", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "314", "number": "314", "name": "Defensa", "type": "defender", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "315", "number": "315", "name": "Defensa", "type": "defender", "team": "Egipto", "group": "G", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "pages": [
+        {
+          "pageNumber": 43,
+          "sections": [
+            {
+              "title": "EGIPTO",
+              "stickers": [
+                { "id": "316", "number": "316", "name": "Mediocampista", "type": "midfielder", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "317", "number": "317", "name": "Mediocampista", "type": "midfielder", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "318", "number": "318", "name": "Mediocampista", "type": "midfielder", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "319", "number": "319", "name": "Mediocampista", "type": "midfielder", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "320", "number": "320", "name": "Mediocampista", "type": "midfielder", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "321", "number": "321", "name": "Delantero", "type": "forward", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "322", "number": "322", "name": "Delantero", "type": "forward", "team": "Egipto", "group": "G", "rarity": "silver" },
+                { "id": "323", "number": "323", "name": "Delantero", "type": "forward", "team": "Egipto", "group": "G", "rarity": "normal" },
+                { "id": "324", "number": "324", "name": "Delantero", "type": "forward", "team": "Egipto", "group": "G", "rarity": "gold" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 44,
+          "sections": [
+            {
+              "title": "IRÁN",
+              "stickers": [
+                { "id": "325", "number": "325", "name": "Selección de Irán", "type": "team", "team": "Irán", "group": "G", "rarity": "normal" },
+                { "id": "326", "number": "326", "name": "Arquero", "type": "goalkeeper", "team": "Irán", "group": "G", "rarity": "gold" },
+                { "id": "327", "number": "327", "name": "Defensa", "type": "defender", "team": "Irán", "group": "G", "rarity": "normal" },
+                { "id": "328", "number": "328", "name": "Defensa", "type": "defender", "team": "Irán", "group": "G", "rarity": "normal" },
+                { "id": "329", "number": "329", "name": "Mediocampista", "type": "midfielder", "team": "Irán", "group": "G", "rarity": "normal" },
+                { "id": "330", "number": "330", "name": "Delantero", "type": "forward", "team": "Irán", "group": "G", "rarity": "silver" },
+                { "id": "331", "number": "331", "name": "Delantero", "type": "forward", "team": "Irán", "group": "G", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "pages": [
+        {
+          "pageNumber": 45,
+          "sections": [
+            {
+              "title": "NUEVA ZELANDA",
+              "stickers": [
+                { "id": "332", "number": "332", "name": "Selección de Nueva Zelanda", "type": "team", "team": "Nueva Zelanda", "group": "G", "rarity": "normal" },
+                { "id": "333", "number": "333", "name": "Arquero", "type": "goalkeeper", "team": "Nueva Zelanda", "group": "G", "rarity": "normal" },
+                { "id": "334", "number": "334", "name": "Defensa", "type": "defender", "team": "Nueva Zelanda", "group": "G", "rarity": "silver" },
+                { "id": "335", "number": "335", "name": "Defensa", "type": "defender", "team": "Nueva Zelanda", "group": "G", "rarity": "normal" },
+                { "id": "336", "number": "336", "name": "Mediocampista", "type": "midfielder", "team": "Nueva Zelanda", "group": "G", "rarity": "normal" },
+                { "id": "337", "number": "337", "name": "Delantero", "type": "forward", "team": "Nueva Zelanda", "group": "G", "rarity": "normal" },
+                { "id": "338", "number": "338", "name": "Delantero", "type": "forward", "team": "Nueva Zelanda", "group": "G", "rarity": "gold" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 46,
+          "sections": [
+            {
+              "title": "ESPAÑA",
+              "stickers": [
+                { "id": "339", "number": "339", "name": "Selección de España", "type": "team", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "340", "number": "340", "name": "Entrenador", "type": "coach", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "341", "number": "341", "name": "Arquero", "type": "goalkeeper", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "342", "number": "342", "name": "Defensa", "type": "defender", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "343", "number": "343", "name": "Defensa", "type": "defender", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "344", "number": "344", "name": "Defensa", "type": "defender", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "345", "number": "345", "name": "Defensa", "type": "defender", "team": "España", "group": "H", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "pages": [
+        {
+          "pageNumber": 47,
+          "sections": [
+            {
+              "title": "ESPAÑA",
+              "stickers": [
+                { "id": "346", "number": "346", "name": "Mediocampista", "type": "midfielder", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "347", "number": "347", "name": "Mediocampista", "type": "midfielder", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "348", "number": "348", "name": "Mediocampista", "type": "midfielder", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "349", "number": "349", "name": "Mediocampista", "type": "midfielder", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "350", "number": "350", "name": "Mediocampista", "type": "midfielder", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "351", "number": "351", "name": "Delantero", "type": "forward", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "352", "number": "352", "name": "Delantero", "type": "forward", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "353", "number": "353", "name": "Delantero", "type": "forward", "team": "España", "group": "H", "rarity": "normal" },
+                { "id": "354", "number": "354", "name": "Delantero", "type": "forward", "team": "España", "group": "H", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 48,
+          "sections": [
+            {
+              "title": "URUGUAY",
+              "stickers": [
+                { "id": "355", "number": "355", "name": "Selección de Uruguay", "type": "team", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "356", "number": "356", "name": "Entrenador", "type": "coach", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "357", "number": "357", "name": "Arquero", "type": "goalkeeper", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "358", "number": "358", "name": "Defensa", "type": "defender", "team": "Uruguay", "group": "H", "rarity": "gold" },
+                { "id": "359", "number": "359", "name": "Defensa", "type": "defender", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "360", "number": "360", "name": "Defensa", "type": "defender", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "361", "number": "361", "name": "Defensa", "type": "defender", "team": "Uruguay", "group": "H", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "pages": [
+        {
+          "pageNumber": 49,
+          "sections": [
+            {
+              "title": "URUGUAY",
+              "stickers": [
+                { "id": "362", "number": "362", "name": "Mediocampista", "type": "midfielder", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "363", "number": "363", "name": "Mediocampista", "type": "midfielder", "team": "Uruguay", "group": "H", "rarity": "silver" },
+                { "id": "364", "number": "364", "name": "Mediocampista", "type": "midfielder", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "365", "number": "365", "name": "Mediocampista", "type": "midfielder", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "366", "number": "366", "name": "Mediocampista", "type": "midfielder", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "367", "number": "367", "name": "Delantero", "type": "forward", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "368", "number": "368", "name": "Delantero", "type": "forward", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "369", "number": "369", "name": "Delantero", "type": "forward", "team": "Uruguay", "group": "H", "rarity": "normal" },
+                { "id": "370", "number": "370", "name": "Delantero", "type": "forward", "team": "Uruguay", "group": "H", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 50,
+          "sections": [
+            {
+              "title": "CABO VERDE",
+              "stickers": [
+                { "id": "371", "number": "371", "name": "Selección de Cabo Verde", "type": "team", "team": "Cabo Verde", "group": "H", "rarity": "normal" },
+                { "id": "372", "number": "372", "name": "Arquero", "type": "goalkeeper", "team": "Cabo Verde", "group": "H", "rarity": "gold" },
+                { "id": "373", "number": "373", "name": "Defensa", "type": "defender", "team": "Cabo Verde", "group": "H", "rarity": "normal" },
+                { "id": "374", "number": "374", "name": "Defensa", "type": "defender", "team": "Cabo Verde", "group": "H", "rarity": "normal" },
+                { "id": "375", "number": "375", "name": "Mediocampista", "type": "midfielder", "team": "Cabo Verde", "group": "H", "rarity": "normal" },
+                { "id": "376", "number": "376", "name": "Delantero", "type": "forward", "team": "Cabo Verde", "group": "H", "rarity": "silver" },
+                { "id": "377", "number": "377", "name": "Delantero", "type": "forward", "team": "Cabo Verde", "group": "H", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "pages": [
+        {
+          "pageNumber": 51,
+          "sections": [
+            {
+              "title": "ARABIA SAUDITA",
+              "stickers": [
+                { "id": "378", "number": "378", "name": "Selección de Arabia Saudita", "type": "team", "team": "Arabia Saudita", "group": "H", "rarity": "normal" },
+                { "id": "379", "number": "379", "name": "Arquero", "type": "goalkeeper", "team": "Arabia Saudita", "group": "H", "rarity": "normal" },
+                { "id": "380", "number": "380", "name": "Defensa", "type": "defender", "team": "Arabia Saudita", "group": "H", "rarity": "normal" },
+                { "id": "381", "number": "381", "name": "Defensa", "type": "defender", "team": "Arabia Saudita", "group": "H", "rarity": "normal" },
+                { "id": "382", "number": "382", "name": "Mediocampista", "type": "midfielder", "team": "Arabia Saudita", "group": "H", "rarity": "normal" },
+                { "id": "383", "number": "383", "name": "Delantero", "type": "forward", "team": "Arabia Saudita", "group": "H", "rarity": "gold" },
+                { "id": "384", "number": "384", "name": "Delantero", "type": "forward", "team": "Arabia Saudita", "group": "H", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 52,
+          "sections": [
+            {
+              "title": "FRANCIA",
+              "stickers": [
+                { "id": "385", "number": "385", "name": "Selección de Francia", "type": "team", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "386", "number": "386", "name": "Entrenador", "type": "coach", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "387", "number": "387", "name": "Arquero", "type": "goalkeeper", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "388", "number": "388", "name": "Defensa", "type": "defender", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "389", "number": "389", "name": "Defensa", "type": "defender", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "390", "number": "390", "name": "Defensa", "type": "defender", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "391", "number": "391", "name": "Defensa", "type": "defender", "team": "Francia", "group": "I", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "pages": [
+        {
+          "pageNumber": 53,
+          "sections": [
+            {
+              "title": "FRANCIA",
+              "stickers": [
+                { "id": "392", "number": "392", "name": "Mediocampista", "type": "midfielder", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "393", "number": "393", "name": "Mediocampista", "type": "midfielder", "team": "Francia", "group": "I", "rarity": "gold" },
+                { "id": "394", "number": "394", "name": "Mediocampista", "type": "midfielder", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "395", "number": "395", "name": "Mediocampista", "type": "midfielder", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "396", "number": "396", "name": "Mediocampista", "type": "midfielder", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "397", "number": "397", "name": "Delantero", "type": "forward", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "398", "number": "398", "name": "Delantero", "type": "forward", "team": "Francia", "group": "I", "rarity": "silver" },
+                { "id": "399", "number": "399", "name": "Delantero", "type": "forward", "team": "Francia", "group": "I", "rarity": "normal" },
+                { "id": "400", "number": "400", "name": "Delantero", "type": "forward", "team": "Francia", "group": "I", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 54,
+          "sections": [
+            {
+              "title": "NORUEGA",
+              "stickers": [
+                { "id": "401", "number": "401", "name": "Selección de Noruega", "type": "team", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "402", "number": "402", "name": "Entrenador", "type": "coach", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "403", "number": "403", "name": "Arquero", "type": "goalkeeper", "team": "Noruega", "group": "I", "rarity": "gold" },
+                { "id": "404", "number": "404", "name": "Defensa", "type": "defender", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "405", "number": "405", "name": "Defensa", "type": "defender", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "406", "number": "406", "name": "Defensa", "type": "defender", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "407", "number": "407", "name": "Defensa", "type": "defender", "team": "Noruega", "group": "I", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "pages": [
+        {
+          "pageNumber": 55,
+          "sections": [
+            {
+              "title": "NORUEGA",
+              "stickers": [
+                { "id": "408", "number": "408", "name": "Mediocampista", "type": "midfielder", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "409", "number": "409", "name": "Mediocampista", "type": "midfielder", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "410", "number": "410", "name": "Mediocampista", "type": "midfielder", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "411", "number": "411", "name": "Mediocampista", "type": "midfielder", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "412", "number": "412", "name": "Mediocampista", "type": "midfielder", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "413", "number": "413", "name": "Delantero", "type": "forward", "team": "Noruega", "group": "I", "rarity": "silver" },
+                { "id": "414", "number": "414", "name": "Delantero", "type": "forward", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "415", "number": "415", "name": "Delantero", "type": "forward", "team": "Noruega", "group": "I", "rarity": "normal" },
+                { "id": "416", "number": "416", "name": "Delantero", "type": "forward", "team": "Noruega", "group": "I", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 56,
+          "sections": [
+            {
+              "title": "SENEGAL",
+              "stickers": [
+                { "id": "417", "number": "417", "name": "Selección de Senegal", "type": "team", "team": "Senegal", "group": "I", "rarity": "normal" },
+                { "id": "418", "number": "418", "name": "Arquero", "type": "goalkeeper", "team": "Senegal", "group": "I", "rarity": "normal" },
+                { "id": "419", "number": "419", "name": "Defensa", "type": "defender", "team": "Senegal", "group": "I", "rarity": "normal" },
+                { "id": "420", "number": "420", "name": "Defensa", "type": "defender", "team": "Senegal", "group": "I", "rarity": "normal" },
+                { "id": "421", "number": "421", "name": "Mediocampista", "type": "midfielder", "team": "Senegal", "group": "I", "rarity": "normal" },
+                { "id": "422", "number": "422", "name": "Delantero", "type": "forward", "team": "Senegal", "group": "I", "rarity": "silver" },
+                { "id": "423", "number": "423", "name": "Delantero", "type": "forward", "team": "Senegal", "group": "I", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "pages": [
+        {
+          "pageNumber": 57,
+          "sections": [
+            {
+              "title": "IRAK",
+              "stickers": [
+                { "id": "424", "number": "424", "name": "Selección de Irak", "type": "team", "team": "Irak", "group": "I", "rarity": "normal" },
+                { "id": "425", "number": "425", "name": "Arquero", "type": "goalkeeper", "team": "Irak", "group": "I", "rarity": "gold" },
+                { "id": "426", "number": "426", "name": "Defensa", "type": "defender", "team": "Irak", "group": "I", "rarity": "normal" },
+                { "id": "427", "number": "427", "name": "Defensa", "type": "defender", "team": "Irak", "group": "I", "rarity": "normal" },
+                { "id": "428", "number": "428", "name": "Mediocampista", "type": "midfielder", "team": "Irak", "group": "I", "rarity": "normal" },
+                { "id": "429", "number": "429", "name": "Delantero", "type": "forward", "team": "Irak", "group": "I", "rarity": "silver" },
+                { "id": "430", "number": "430", "name": "Delantero", "type": "forward", "team": "Irak", "group": "I", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 58,
+          "sections": [
+            {
+              "title": "ARGENTINA",
+              "stickers": [
+                { "id": "431", "number": "431", "name": "Selección de Argentina", "type": "team", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "432", "number": "432", "name": "Entrenador", "type": "coach", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "433", "number": "433", "name": "Arquero", "type": "goalkeeper", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "434", "number": "434", "name": "Defensa", "type": "defender", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "435", "number": "435", "name": "Defensa", "type": "defender", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "436", "number": "436", "name": "Defensa", "type": "defender", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "437", "number": "437", "name": "Defensa", "type": "defender", "team": "Argentina", "group": "J", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "pages": [
+        {
+          "pageNumber": 59,
+          "sections": [
+            {
+              "title": "ARGENTINA",
+              "stickers": [
+                { "id": "438", "number": "438", "name": "Mediocampista", "type": "midfielder", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "439", "number": "439", "name": "Mediocampista", "type": "midfielder", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "440", "number": "440", "name": "Mediocampista", "type": "midfielder", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "441", "number": "441", "name": "Mediocampista", "type": "midfielder", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "442", "number": "442", "name": "Delantero", "type": "forward", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "443", "number": "443", "name": "Delantero", "type": "forward", "team": "Argentina", "group": "J", "rarity": "gold" },
+                { "id": "444", "number": "444", "name": "Delantero", "type": "forward", "team": "Argentina", "group": "J", "rarity": "silver" },
+                { "id": "445", "number": "445", "name": "Delantero", "type": "forward", "team": "Argentina", "group": "J", "rarity": "normal" },
+                { "id": "446", "number": "446", "name": "Delantero", "type": "forward", "team": "Argentina", "group": "J", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 60,
+          "sections": [
+            {
+              "title": "AUSTRIA",
+              "stickers": [
+                { "id": "447", "number": "447", "name": "Selección de Austria", "type": "team", "team": "Austria", "group": "J", "rarity": "normal" },
+                { "id": "448", "number": "448", "name": "Arquero", "type": "goalkeeper", "team": "Austria", "group": "J", "rarity": "normal" },
+                { "id": "449", "number": "449", "name": "Defensa", "type": "defender", "team": "Austria", "group": "J", "rarity": "normal" },
+                { "id": "450", "number": "450", "name": "Defensa", "type": "defender", "team": "Austria", "group": "J", "rarity": "normal" },
+                { "id": "451", "number": "451", "name": "Mediocampista", "type": "midfielder", "team": "Austria", "group": "J", "rarity": "silver" },
+                { "id": "452", "number": "452", "name": "Delantero", "type": "forward", "team": "Austria", "group": "J", "rarity": "normal" },
+                { "id": "453", "number": "453", "name": "Delantero", "type": "forward", "team": "Austria", "group": "J", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "pages": [
+        {
+          "pageNumber": 61,
+          "sections": [
+            {
+              "title": "JORDANIA",
+              "stickers": [
+                { "id": "454", "number": "454", "name": "Selección de Jordania", "type": "team", "team": "Jordania", "group": "J", "rarity": "normal" },
+                { "id": "455", "number": "455", "name": "Arquero", "type": "goalkeeper", "team": "Jordania", "group": "J", "rarity": "gold" },
+                { "id": "456", "number": "456", "name": "Defensa", "type": "defender", "team": "Jordania", "group": "J", "rarity": "normal" },
+                { "id": "457", "number": "457", "name": "Defensa", "type": "defender", "team": "Jordania", "group": "J", "rarity": "normal" },
+                { "id": "458", "number": "458", "name": "Mediocampista", "type": "midfielder", "team": "Jordania", "group": "J", "rarity": "normal" },
+                { "id": "459", "number": "459", "name": "Delantero", "type": "forward", "team": "Jordania", "group": "J", "rarity": "normal" },
+                { "id": "460", "number": "460", "name": "Delantero", "type": "forward", "team": "Jordania", "group": "J", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 62,
+          "sections": [
+            {
+              "title": "ARGELIA",
+              "stickers": [
+                { "id": "461", "number": "461", "name": "Selección de Argelia", "type": "team", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "462", "number": "462", "name": "Entrenador", "type": "coach", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "463", "number": "463", "name": "Arquero", "type": "goalkeeper", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "464", "number": "464", "name": "Defensa", "type": "defender", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "465", "number": "465", "name": "Defensa", "type": "defender", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "466", "number": "466", "name": "Defensa", "type": "defender", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "467", "number": "467", "name": "Defensa", "type": "defender", "team": "Argelia", "group": "J", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "pages": [
+        {
+          "pageNumber": 63,
+          "sections": [
+            {
+              "title": "ARGELIA",
+              "stickers": [
+                { "id": "468", "number": "468", "name": "Mediocampista", "type": "midfielder", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "469", "number": "469", "name": "Mediocampista", "type": "midfielder", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "470", "number": "470", "name": "Mediocampista", "type": "midfielder", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "471", "number": "471", "name": "Mediocampista", "type": "midfielder", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "472", "number": "472", "name": "Mediocampista", "type": "midfielder", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "473", "number": "473", "name": "Delantero", "type": "forward", "team": "Argelia", "group": "J", "rarity": "gold" },
+                { "id": "474", "number": "474", "name": "Delantero", "type": "forward", "team": "Argelia", "group": "J", "rarity": "normal" },
+                { "id": "475", "number": "475", "name": "Delantero", "type": "forward", "team": "Argelia", "group": "J", "rarity": "silver" },
+                { "id": "476", "number": "476", "name": "Delantero", "type": "forward", "team": "Argelia", "group": "J", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 64,
+          "sections": [
+            {
+              "title": "PORTUGAL",
+              "stickers": [
+                { "id": "477", "number": "477", "name": "Selección de Portugal", "type": "team", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "478", "number": "478", "name": "Entrenador", "type": "coach", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "479", "number": "479", "name": "Arquero", "type": "goalkeeper", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "480", "number": "480", "name": "Defensa", "type": "defender", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "481", "number": "481", "name": "Defensa", "type": "defender", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "482", "number": "482", "name": "Defensa", "type": "defender", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "483", "number": "483", "name": "Defensa", "type": "defender", "team": "Portugal", "group": "K", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "pages": [
+        {
+          "pageNumber": 65,
+          "sections": [
+            {
+              "title": "PORTUGAL",
+              "stickers": [
+                { "id": "484", "number": "484", "name": "Mediocampista", "type": "midfielder", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "485", "number": "485", "name": "Mediocampista", "type": "midfielder", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "486", "number": "486", "name": "Mediocampista", "type": "midfielder", "team": "Portugal", "group": "K", "rarity": "silver" },
+                { "id": "487", "number": "487", "name": "Mediocampista", "type": "midfielder", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "488", "number": "488", "name": "Mediocampista", "type": "midfielder", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "489", "number": "489", "name": "Delantero", "type": "forward", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "490", "number": "490", "name": "Delantero", "type": "forward", "team": "Portugal", "group": "K", "rarity": "gold" },
+                { "id": "491", "number": "491", "name": "Delantero", "type": "forward", "team": "Portugal", "group": "K", "rarity": "normal" },
+                { "id": "492", "number": "492", "name": "Delantero", "type": "forward", "team": "Portugal", "group": "K", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 66,
+          "sections": [
+            {
+              "title": "COLOMBIA",
+              "stickers": [
+                { "id": "493", "number": "493", "name": "Selección de Colombia", "type": "team", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "494", "number": "494", "name": "Entrenador", "type": "coach", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "495", "number": "495", "name": "Arquero", "type": "goalkeeper", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "496", "number": "496", "name": "Defensa", "type": "defender", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "497", "number": "497", "name": "Defensa", "type": "defender", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "498", "number": "498", "name": "Defensa", "type": "defender", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "499", "number": "499", "name": "Defensa", "type": "defender", "team": "Colombia", "group": "K", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "pages": [
+        {
+          "pageNumber": 67,
+          "sections": [
+            {
+              "title": "COLOMBIA",
+              "stickers": [
+                { "id": "500", "number": "500", "name": "Mediocampista", "type": "midfielder", "team": "Colombia", "group": "K", "rarity": "gold" },
+                { "id": "501", "number": "501", "name": "Mediocampista", "type": "midfielder", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "502", "number": "502", "name": "Mediocampista", "type": "midfielder", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "503", "number": "503", "name": "Mediocampista", "type": "midfielder", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "504", "number": "504", "name": "Mediocampista", "type": "midfielder", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "505", "number": "505", "name": "Delantero", "type": "forward", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "506", "number": "506", "name": "Delantero", "type": "forward", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "507", "number": "507", "name": "Delantero", "type": "forward", "team": "Colombia", "group": "K", "rarity": "normal" },
+                { "id": "508", "number": "508", "name": "Delantero", "type": "forward", "team": "Colombia", "group": "K", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 68,
+          "sections": [
+            {
+              "title": "UZBEQUISTÁN",
+              "stickers": [
+                { "id": "509", "number": "509", "name": "Selección de Uzbekistán", "type": "team", "team": "Uzbequistán", "group": "K", "rarity": "normal" },
+                { "id": "510", "number": "510", "name": "Arquero", "type": "goalkeeper", "team": "Uzbequistán", "group": "K", "rarity": "normal" },
+                { "id": "511", "number": "511", "name": "Defensa", "type": "defender", "team": "Uzbequistán", "group": "K", "rarity": "silver" },
+                { "id": "512", "number": "512", "name": "Defensa", "type": "defender", "team": "Uzbequistán", "group": "K", "rarity": "normal" },
+                { "id": "513", "number": "513", "name": "Mediocampista", "type": "midfielder", "team": "Uzbequistán", "group": "K", "rarity": "normal" },
+                { "id": "514", "number": "514", "name": "Delantero", "type": "forward", "team": "Uzbequistán", "group": "K", "rarity": "normal" },
+                { "id": "515", "number": "515", "name": "Delantero", "type": "forward", "team": "Uzbequistán", "group": "K", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "pages": [
+        {
+          "pageNumber": 69,
+          "sections": [
+            {
+              "title": "RD CONGO",
+              "stickers": [
+                { "id": "516", "number": "516", "name": "Selección de RD Congo", "type": "team", "team": "RD Congo", "group": "K", "rarity": "normal" },
+                { "id": "517", "number": "517", "name": "Arquero", "type": "goalkeeper", "team": "RD Congo", "group": "K", "rarity": "normal" },
+                { "id": "518", "number": "518", "name": "Defensa", "type": "defender", "team": "RD Congo", "group": "K", "rarity": "normal" },
+                { "id": "519", "number": "519", "name": "Defensa", "type": "defender", "team": "RD Congo", "group": "K", "rarity": "normal" },
+                { "id": "520", "number": "520", "name": "Mediocampista", "type": "midfielder", "team": "RD Congo", "group": "K", "rarity": "normal" },
+                { "id": "521", "number": "521", "name": "Delantero", "type": "forward", "team": "RD Congo", "group": "K", "rarity": "gold" },
+                { "id": "522", "number": "522", "name": "Delantero", "type": "forward", "team": "RD Congo", "group": "K", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 70,
+          "sections": [
+            {
+              "title": "INGLATERRA",
+              "stickers": [
+                { "id": "523", "number": "523", "name": "Selección de Inglaterra", "type": "team", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "524", "number": "524", "name": "Entrenador", "type": "coach", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "525", "number": "525", "name": "Arquero", "type": "goalkeeper", "team": "Inglaterra", "group": "L", "rarity": "gold" },
+                { "id": "526", "number": "526", "name": "Defensa", "type": "defender", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "527", "number": "527", "name": "Defensa", "type": "defender", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "528", "number": "528", "name": "Defensa", "type": "defender", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "529", "number": "529", "name": "Defensa", "type": "defender", "team": "Inglaterra", "group": "L", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "pages": [
+        {
+          "pageNumber": 71,
+          "sections": [
+            {
+              "title": "INGLATERRA",
+              "stickers": [
+                { "id": "530", "number": "530", "name": "Mediocampista", "type": "midfielder", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "531", "number": "531", "name": "Mediocampista", "type": "midfielder", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "532", "number": "532", "name": "Mediocampista", "type": "midfielder", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "533", "number": "533", "name": "Mediocampista", "type": "midfielder", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "534", "number": "534", "name": "Mediocampista", "type": "midfielder", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "535", "number": "535", "name": "Delantero", "type": "forward", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "536", "number": "536", "name": "Delantero", "type": "forward", "team": "Inglaterra", "group": "L", "rarity": "silver" },
+                { "id": "537", "number": "537", "name": "Delantero", "type": "forward", "team": "Inglaterra", "group": "L", "rarity": "normal" },
+                { "id": "538", "number": "538", "name": "Delantero", "type": "forward", "team": "Inglaterra", "group": "L", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 72,
+          "sections": [
+            {
+              "title": "CROACIA",
+              "stickers": [
+                { "id": "539", "number": "539", "name": "Selección de Croacia", "type": "team", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "540", "number": "540", "name": "Entrenador", "type": "coach", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "541", "number": "541", "name": "Arquero", "type": "goalkeeper", "team": "Croacia", "group": "L", "rarity": "silver" },
+                { "id": "542", "number": "542", "name": "Defensa", "type": "defender", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "543", "number": "543", "name": "Defensa", "type": "defender", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "544", "number": "544", "name": "Defensa", "type": "defender", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "545", "number": "545", "name": "Defensa", "type": "defender", "team": "Croacia", "group": "L", "rarity": "normal" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "pages": [
+        {
+          "pageNumber": 73,
+          "sections": [
+            {
+              "title": "CROACIA",
+              "stickers": [
+                { "id": "546", "number": "546", "name": "Mediocampista", "type": "midfielder", "team": "Croacia", "group": "L", "rarity": "gold" },
+                { "id": "547", "number": "547", "name": "Mediocampista", "type": "midfielder", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "548", "number": "548", "name": "Mediocampista", "type": "midfielder", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "549", "number": "549", "name": "Mediocampista", "type": "midfielder", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "550", "number": "550", "name": "Mediocampista", "type": "midfielder", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "551", "number": "551", "name": "Delantero", "type": "forward", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "552", "number": "552", "name": "Delantero", "type": "forward", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "553", "number": "553", "name": "Delantero", "type": "forward", "team": "Croacia", "group": "L", "rarity": "normal" },
+                { "id": "554", "number": "554", "name": "Delantero", "type": "forward", "team": "Croacia", "group": "L", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 74,
+          "sections": [
+            {
+              "title": "GHANA",
+              "stickers": [
+                { "id": "555", "number": "555", "name": "Selección de Ghana", "type": "team", "team": "Ghana", "group": "L", "rarity": "normal" },
+                { "id": "556", "number": "556", "name": "Arquero", "type": "goalkeeper", "team": "Ghana", "group": "L", "rarity": "normal" },
+                { "id": "557", "number": "557", "name": "Defensa", "type": "defender", "team": "Ghana", "group": "L", "rarity": "normal" },
+                { "id": "558", "number": "558", "name": "Defensa", "type": "defender", "team": "Ghana", "group": "L", "rarity": "normal" },
+                { "id": "559", "number": "559", "name": "Mediocampista", "type": "midfielder", "team": "Ghana", "group": "L", "rarity": "normal" },
+                { "id": "560", "number": "560", "name": "Delantero", "type": "forward", "team": "Ghana", "group": "L", "rarity": "silver" },
+                { "id": "561", "number": "561", "name": "Delantero", "type": "forward", "team": "Ghana", "group": "L", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "pages": [
+        {
+          "pageNumber": 75,
+          "sections": [
+            {
+              "title": "PANAMÁ",
+              "stickers": [
+                { "id": "562", "number": "562", "name": "Selección de Panamá", "type": "team", "team": "Panamá", "group": "L", "rarity": "normal" },
+                { "id": "563", "number": "563", "name": "Arquero", "type": "goalkeeper", "team": "Panamá", "group": "L", "rarity": "normal" },
+                { "id": "564", "number": "564", "name": "Defensa", "type": "defender", "team": "Panamá", "group": "L", "rarity": "normal" },
+                { "id": "565", "number": "565", "name": "Defensa", "type": "defender", "team": "Panamá", "group": "L", "rarity": "gold" },
+                { "id": "566", "number": "566", "name": "Mediocampista", "type": "midfielder", "team": "Panamá", "group": "L", "rarity": "silver" },
+                { "id": "567", "number": "567", "name": "Delantero", "type": "forward", "team": "Panamá", "group": "L", "rarity": "normal" },
+                { "id": "568", "number": "568", "name": "Delantero", "type": "forward", "team": "Panamá", "group": "L", "rarity": "normal" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 76,
+          "sections": [
+            {
+              "title": "LOS ÚLTIMOS CAMPEONES DEL MUNDO",
+              "stickers": [
+                { "id": "569", "number": "569", "name": "Argentina (Sede: Argentina 1978)", "type": "historic", "team": "Argentina", "group": "Campeones", "rarity": "gold" },
+                { "id": "570", "number": "570", "name": "Italia (Sede: España 1982)", "type": "historic", "team": "Italia", "group": "Campeones", "rarity": "gold" },
+                { "id": "571", "number": "571", "name": "Argentina (Sede: México 1986)", "type": "historic", "team": "Argentina", "group": "Campeones", "rarity": "gold" },
+                { "id": "572", "number": "572", "name": "Alemania (Sede: Italia 1990)", "type": "historic", "team": "Alemania", "group": "Campeones", "rarity": "gold" },
+                { "id": "573", "number": "573", "name": "Brasil (Sede: EE.UU 1994)", "type": "historic", "team": "Brasil", "group": "Campeones", "rarity": "gold" },
+                { "id": "574", "number": "574", "name": "Francia (Sede: Francia 1998)", "type": "historic", "team": "Francia", "group": "Campeones", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "pages": [
+        {
+          "pageNumber": 77,
+          "sections": [
+            {
+              "title": "CONTINÚAN LOS CAMPEONES DEL MUNDO",
+              "stickers": [
+                { "id": "575", "number": "575", "name": "Brasil (Sede: Corea/Japón 2002)", "type": "historic", "team": "Brasil", "group": "Campeones", "rarity": "gold" },
+                { "id": "576", "number": "576", "name": "Italia (Sede: Alemania 2006)", "type": "historic", "team": "Italia", "group": "Campeones", "rarity": "gold" },
+                { "id": "577", "number": "577", "name": "España (Sede: Sudáfrica 2010)", "type": "historic", "team": "España", "group": "Campeones", "rarity": "gold" },
+                { "id": "578", "number": "578", "name": "Alemania (Sede: Brasil 2014)", "type": "historic", "team": "Alemania", "group": "Campeones", "rarity": "gold" },
+                { "id": "579", "number": "579", "name": "Francia (Sede: Rusia 2018)", "type": "historic", "team": "Francia", "group": "Campeones", "rarity": "gold" },
+                { "id": "580", "number": "580", "name": "Argentina (Sede: Catar 2022)", "type": "historic", "team": "Argentina", "group": "Campeones", "rarity": "gold" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 78,
+          "sections": [
+            {
+              "title": "SELECCIONES CLASIFICADAS (Grupos A, B, C)",
+              "stickers": [
+                { "id": "T-1", "number": "T-1", "name": "México", "type": "special", "team": "México", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-2", "number": "T-2", "name": "Sudáfrica", "type": "special", "team": "Sudáfrica", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-3", "number": "T-3", "name": "Corea del Sur", "type": "special", "team": "Corea del Sur", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-4", "number": "T-4", "name": "República Checa", "type": "special", "team": "República Checa", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-5", "number": "T-5", "name": "Canadá", "type": "special", "team": "Canadá", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-6", "number": "T-6", "name": "Bosnia y Herz.", "type": "special", "team": "Bosnia y Herz.", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-7", "number": "T-7", "name": "Catar", "type": "special", "team": "Catar", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-8", "number": "T-8", "name": "Suiza", "type": "special", "team": "Suiza", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-9", "number": "T-9", "name": "Brasil", "type": "special", "team": "Brasil", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-10", "number": "T-10", "name": "Marruecos", "type": "special", "team": "Marruecos", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-11", "number": "T-11", "name": "Haití", "type": "special", "team": "Haití", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-12", "number": "T-12", "name": "Escocia", "type": "special", "team": "Escocia", "group": "Clasificadas", "rarity": "silver" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "pages": [
+        {
+          "pageNumber": 79,
+          "sections": [
+            {
+              "title": "SELECCIONES CLASIFICADAS (Grupos D, E, F)",
+              "stickers": [
+                { "id": "T-13", "number": "T-13", "name": "EE.UU", "type": "special", "team": "EE.UU", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-14", "number": "T-14", "name": "Paraguay", "type": "special", "team": "Paraguay", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-15", "number": "T-15", "name": "Australia", "type": "special", "team": "Australia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-16", "number": "T-16", "name": "Turquía", "type": "special", "team": "Turquía", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-17", "number": "T-17", "name": "Alemania", "type": "special", "team": "Alemania", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-18", "number": "T-18", "name": "Curazao", "type": "special", "team": "Curazao", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-19", "number": "T-19", "name": "Costa de Marfil", "type": "special", "team": "Costa de Marfil", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-20", "number": "T-20", "name": "Ecuador", "type": "special", "team": "Ecuador", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-21", "number": "T-21", "name": "Países Bajos", "type": "special", "team": "Países Bajos", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-22", "number": "T-22", "name": "Japón", "type": "special", "team": "Japón", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-23", "number": "T-23", "name": "Suecia", "type": "special", "team": "Suecia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-24", "number": "T-24", "name": "Túnez", "type": "special", "team": "Túnez", "group": "Clasificadas", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 80,
+          "sections": [
+            {
+              "title": "SELECCIONES CLASIFICADAS (Grupos G, H, I)",
+              "stickers": [
+                { "id": "T-25", "number": "T-25", "name": "Bélgica", "type": "special", "team": "Bélgica", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-26", "number": "T-26", "name": "Egipto", "type": "special", "team": "Egipto", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-27", "number": "T-27", "name": "Irán", "type": "special", "team": "Irán", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-28", "number": "T-28", "name": "Nueva Zelanda", "type": "special", "team": "Nueva Zelanda", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-29", "number": "T-29", "name": "España", "type": "special", "team": "España", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-30", "number": "T-30", "name": "Cabo Verde", "type": "special", "team": "Cabo Verde", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-31", "number": "T-31", "name": "Arabia Saudita", "type": "special", "team": "Arabia Saudita", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-32", "number": "T-32", "name": "Uruguay", "type": "special", "team": "Uruguay", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-33", "number": "T-33", "name": "Francia", "type": "special", "team": "Francia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-34", "number": "T-34", "name": "Senegal", "type": "special", "team": "Senegal", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-35", "number": "T-35", "name": "Noruega", "type": "special", "team": "Noruega", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-36", "number": "T-36", "name": "Irak", "type": "special", "team": "Irak", "group": "Clasificadas", "rarity": "silver" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "pages": [
+        {
+          "pageNumber": 81,
+          "sections": [
+            {
+              "title": "SELECCIONES CLASIFICADAS (Grupos J, K, L)",
+              "stickers": [
+                { "id": "T-37", "number": "T-37", "name": "Argentina", "type": "special", "team": "Argentina", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-38", "number": "T-38", "name": "Argelia", "type": "special", "team": "Argelia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-39", "number": "T-39", "name": "Austria", "type": "special", "team": "Austria", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-40", "number": "T-40", "name": "Jordania", "type": "special", "team": "Jordania", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-41", "number": "T-41", "name": "Colombia", "type": "special", "team": "Colombia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-42", "number": "T-42", "name": "Portugal", "type": "special", "team": "Portugal", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-43", "number": "T-43", "name": "Uzbequistán", "type": "special", "team": "Uzbequistán", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-44", "number": "T-44", "name": "R.D. Congo", "type": "special", "team": "R.D. Congo", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-45", "number": "T-45", "name": "Inglaterra", "type": "special", "team": "Inglaterra", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-46", "number": "T-46", "name": "Croacia", "type": "special", "team": "Croacia", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-47", "number": "T-47", "name": "Panamá", "type": "special", "team": "Panamá", "group": "Clasificadas", "rarity": "silver" },
+                { "id": "T-48", "number": "T-48", "name": "Ghana", "type": "special", "team": "Ghana", "group": "Clasificadas", "rarity": "silver" }
+              ]
+            }
+          ]
+        },
+        {
+          "pageNumber": 82,
+          "sections": [
+            {
+              "title": "PRIMERA VEZ EN EL MUNDIAL",
+              "stickers": [
+                { "id": "581", "number": "581", "name": "Curazao", "type": "historic", "team": "Curazao", "group": "Debutantes", "rarity": "gold" },
+                { "id": "582", "number": "582", "name": "Uzbequistán", "type": "historic", "team": "Uzbequistán", "group": "Debutantes", "rarity": "gold" },
+                { "id": "583", "number": "583", "name": "Jordania", "type": "historic", "team": "Jordania", "group": "Debutantes", "rarity": "gold" },
+                { "id": "584", "number": "584", "name": "Cabo Verde", "type": "historic", "team": "Cabo Verde", "group": "Debutantes", "rarity": "gold" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
