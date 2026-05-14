@@ -53,3 +53,38 @@ export interface Album {
   };
   sheets: Sheet[];
 }
+
+// types/album.ts (Fragmento a actualizar)
+
+export interface Theme {
+  crest: string; // Ruta del escudo (ej: "/crests/mex.png")
+  colors: {
+    primary: string;   // Color principal en HEX
+    secondary: string; // Color secundario en HEX
+  };
+}
+
+export interface Section {
+  title: string;
+  theme?: Theme; // Es opcional porque secciones como "Sedes" no tienen un escudo único
+  stickers: Sticker[];
+}
+
+export interface Match {
+  opponent: string;
+  date: string;
+  stadium: string;
+}
+
+export interface GroupData {
+  name: string;       // Ej: "GRUPO A"
+  teams: { name: string; crest: string }[];
+  matches: Match[];
+}
+
+export interface Section {
+  title: string;
+  theme?: Theme;
+  groupData?: GroupData; // Nueva propiedad opcional
+  stickers: Sticker[];
+}
